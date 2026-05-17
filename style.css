@@ -1,7 +1,7 @@
 body {
     background-color: #FAF9F6;
     color: black;
-    font-family: Arial;
+    font-family: "Trebuchet MS", sans-serif;
     text-align: center;
     padding-top: 0px;
 }
@@ -17,7 +17,7 @@ nav a {
     text-decoration: none;
     margin: 20px;
     font-size: 18px;
-    font-family: Arial;
+    font-family: "Trebuchet MS", sans-serif;
 }
 
 nav a:hover {
